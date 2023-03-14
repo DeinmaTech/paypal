@@ -11,3 +11,4 @@ Jane
 God'spower
 Paul
 God'sgift
+Manager
